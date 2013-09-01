@@ -1,0 +1,256 @@
+{
+  "locale": {
+    "message": "sk"
+  },
+  "refresh": {
+    "message": "Obnoviť"
+  },
+  "offline": {
+    "message": "Nie ste pripojený<br />k internetu.<br />Skúste to neskôr."
+  },
+  "title": {
+    "message": "Rozšírenie Wips.com"
+  },
+  "stats": {
+    "message": "Povoliť odosielanie anonymných štatistických informácií"
+  },
+  "close": {
+    "message": "Zavrieť"
+  },
+  "options": {
+    "message": "Nastavenie"
+  },
+  "notify": {
+    "message": "Povoliť desktopové notifikácie"
+  },
+  "notify_mess": {
+    "message": "Povoliť desktopové správy"
+  },
+  "notify_close": {
+    "message": "Zavrieť desktopové notifikácie po (sekundy):"
+  },
+  "notify_bg": {
+    "message": "Povoliť desktopové notifikácie na pozadí"
+  },
+  "time_before": {
+    "message": "Pred "
+  },
+  "seconds_before": {
+    "message": "sekundami"
+  },
+  "minute_before": {
+    "message": "minutou"
+  },
+  "minutes_before": {
+    "message": "minutami"
+  },
+  "hour_before": {
+    "message": "hodinou"
+  },
+  "hours_before": {
+    "message": "hodinami"
+  },
+  "day_before": {
+    "message": "Včera"
+  },
+  "days_before": {
+    "message": "dňami"
+  },
+  "month_before": {
+    "message": "mesiacom"
+  },
+  "months_before": {
+    "message": "mesiacmi"
+  },
+  "year_before": {
+    "message": "rokom"
+  },
+  "years_before": {
+    "message": "rokmi"
+  },
+  "new_messages": {
+    "message": "Máte nové správy"
+  },
+  
+  "locale_fb": {
+    "message": "sk_SK"
+  },
+  "logout": {
+    "message": "Odhlásiť"
+  },
+  "news_feed": {
+    "message": "Príspevky"
+  },
+  "share_this_page": {
+    "message": "Zdieľať aktuálnú stránku"
+  },
+  "status_update": {
+    "message": "Aktualizovať stav"
+  },
+  "whats_on_your_mind": {
+    "message": "Čo máte na mysli?"
+  },
+  "post": {
+    "message": "Pridať"
+  },
+  "unlike": {
+    "message": "Už sa mi to nepáči"
+  },
+  "like": {
+    "message": "Páči sa mi to"
+  },
+  "comment": {
+    "message": "Pridať komentár"
+  },
+  "like_this": {
+    "message": "ľuďom sa to páči"
+  },
+  "all_comments": {
+    "message": "Zobraziť všetky komentáre"
+  },
+  
+  "share_this_widget": {
+    "message": "Zdieľaj tento doplnok"
+  },
+  "message_sent": {
+    "message": "Vaša správa bola úspešne odoslaná"
+  },
+  "share_successful": {
+    "message": "Zdieľanie bolo úspešné"
+  },
+  "do_you_like": {
+    "message": "Páči sa vám tento doplnok?"
+  },
+  "share_it": {
+    "message": "Zdieľajte ho!"
+  },
+  
+  "settings_saved": {
+    "message": "Vaše nastavenia boli uložené."
+  },
+  "stats_help": {
+    "message": "Toto nám pomáha zlepšovať tento doplnok. Všetky štatistiky sú prísne anonymné takže nemajte starosť."
+  },
+  "desktop_notifications": {
+    "message": "Notifikácie na ploche"
+  },
+  "desktop_notifications_help": {
+    "message": "Zakaždým keď dostanete nejaké upozornenia tak sa objaví malé okno dole v rohu s obsahom upozornenia."
+  },
+  "notify_close_help": {
+    "message": "Ako dlho zostanú na ploche upozornenie zobrazená?"
+  },
+  "notify_bg_help": {
+    "message": "Ak zaškrtnite tak dostanete upozornenie aj pri vypnutom prehliadači."
+  },
+  
+  "search": {
+    "message": "Vyhľadať"
+  },
+  "views": {
+    "message": "zhliadnutí"
+  },
+  "uploaded_by": {
+    "message": "Nahrál"
+  },
+  "back_to_channel": {
+    "message": "Späť na kanál"
+  },
+  "channel_filter": {
+    "message": "Filter kanálov"
+  },
+  "bulk_notify": {
+    "message": "Povoliť majiteľovi doplnku zasielať mi notifikácie"
+  },
+  "bulk_notify_help": {
+    "message": "Dobrým príkladom toho je niekoľko otázok pre vás o tom, ako zlepšiť rozšírenie. Dôrazne doporučujeme nechať túto možnosť povolenú. Nikdy nebude použitá za účelom spamu."
+  },
+    "enable_update_notify": {
+        "message": "Povoliť upozornenia na nové funkcie"
+    },
+  
+  "color": {
+    "message": "Color"
+  },
+  "opacity": {
+    "message": "Opacity"
+  },
+  "autoplay": {
+    "message": "Autoplay (YouTube)"
+  },
+  "fade_in_out": {
+    "message": "Fade in / Fade out effects"
+  },
+  "shortcut_key": {
+    "message": "Shortcut key for dimming the lights - Ctrl+Shift+L"
+  },
+  "context_menu": {
+    "message": "Show the context menu to focus an item"
+  },
+  
+  "info_bar": {
+    "message": "Info Bar"
+  },
+  "like_dislike": {
+    "message": "Like & Dislike buttons"
+  },
+  "video_title": {
+    "message": "Video Title"
+  },
+  "add_button": {
+    "message": "Add button"
+  },
+  "channel_bar": {
+    "message": "Channel bar"
+  },
+  "share_buttons": {
+    "message": "Share buttons"
+  },
+  "suggestions": {
+    "message": "Suggestions"
+  },
+  "number_views": {
+    "message": "Number of views"
+  },
+  "like_bar": {
+    "message": "Like bar"
+  },
+  
+  "info_bar_help": {
+    "message": "Show the description information about the video"
+  },
+  "like_dislike_help": {
+    "message": "Show Like & Dislike buttons"
+  },
+  "video_title_help": {
+    "message": "Show and invert the color of the video title"
+  },
+  "add_button_help": {
+    "message": "Show Add button"
+  },
+  "channel_bar_help": {
+    "message": "Show the YouTube Channel bar on the name"
+  },
+  "share_buttons_help": {
+    "message": "Show the share buttons of YouTube for this video"
+  },
+  "suggestions_help": {
+    "message": "Show the suggestions of the YouTube website"
+  },
+  "number_views_help": {
+    "message": "Show the number of views for this video"
+  },
+  "like_bar_help": {
+    "message": "Show the like/dislike bar from current YouTube video"
+  },
+  
+  "live_notif_started": {
+    "message": "začal live streaming"
+  },
+  "live_notif_click": {
+    "message": "Kliknite tu pre spustenie prehrávania"
+  },
+  "live_popup_click": {
+    "message": "Kliknite tu pre vstup na live stream"
+  }
+}

@@ -1,0 +1,77 @@
+*{
+  margin:0;
+  padding:0;          
+}
+body{
+  position:relative;
+  font-family:arial;
+  font-size:10px;
+  text-align:left;
+  color:#323332;
+  background-color:#F0F1F8;
+  border:solid 2px #ffffff;
+  border-top:solid 1px #ffffff;
+  overflow:hidden;
+}
+p{
+  line-height:13px;
+}
+a, a:hover{
+  color:#324A8A;
+  text-decoration:none;
+  cursor:pointer !important;
+}
+a:hover{
+  text-decoration:underline !important;
+}
+.clear{
+  clear:both;
+  height:0;
+  line-height:0;
+  font-size:0;
+}
+.none{
+  display: none;
+}
+#hlavni{
+  position: relative;
+  padding:6px 8px;
+  overflow:hidden;
+}
+.left{
+  float:left;
+  width:50px;
+  padding:2px 0 0 0;
+}
+.left img{
+  max-width:50px;
+  max-height:50px;
+  border-radius:5px;
+}
+.right{
+  float:right;
+  width:222px;
+}
+.right.padd_right{
+  width:200px;
+  padding-right:22px;
+}
+.nadpis{
+  display:block;
+  padding:0 0 2px 0;
+  font-size:11px;
+  font-weight:bold;
+  line-height:14px;
+}
+.nadpis a{
+  font-weight:bold;
+}
+.time{
+  padding:1px 0 4px 0;
+}
+.time span{
+  color:#858586;
+}
+.time img{
+  margin:0 3px -5px 0;
+}

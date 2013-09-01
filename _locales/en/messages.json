@@ -1,0 +1,256 @@
+{
+  "locale": {
+    "message": "en"
+  },
+  "refresh": {
+    "message": "Refresh"
+  },
+  "offline": {
+    "message": "You are not connected<br />to the internet.<br />Try again later."
+  },
+  "title": {
+    "message": "Wips.com extension"
+  },
+  "stats": {
+    "message": "Allow sending anonymous statistics"
+  },
+  "close": {
+    "message": "Close"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "notify": {
+    "message": "Enable desktop notification"
+  },
+  "notify_mess": {
+    "message": "Enable desktop messages"
+  },
+  "notify_close": {
+    "message": "Close desktop notification after (seconds):"
+  },
+  "notify_bg": {
+    "message": "Enable notification on background"
+  },
+  "time_before": {
+    "message": ""
+  },
+  "seconds_before": {
+    "message": "seconds ago"
+  },
+  "minute_before": {
+    "message": "minute ago"
+  },
+  "minutes_before": {
+    "message": "minutes ago"
+  },
+  "hour_before": {
+    "message": "hour ago"
+  },
+  "hours_before": {
+    "message": "hours ago"
+  },
+  "day_before": {
+    "message": "Yesterday"
+  },
+  "days_before": {
+    "message": "days ago"
+  },
+  "month_before": {
+    "message": "month ago"
+  },
+  "months_before": {
+    "message": "months ago"
+  },
+  "year_before": {
+    "message": "year ago"
+  },
+  "years_before": {
+    "message": "years ago"
+  },
+  "new_messages": {
+    "message": "New messages"
+  },
+  
+  "locale_fb": {
+    "message": "en_GB"
+  },
+  "logout": {
+    "message": "Logout"
+  },
+  "news_feed": {
+    "message": "News feed"
+  },
+  "share_this_page": {
+    "message": "Share this page"
+  },
+  "status_update": {
+    "message": "Status update"
+  },
+  "whats_on_your_mind": {
+    "message": "What’s on your mind?"
+  },
+  "post": {
+    "message": "Post"
+  },
+  "unlike": {
+    "message": "Unlike"
+  },
+  "like": {
+    "message": "Like"
+  },
+  "comment": {
+    "message": "Comment"
+  },
+  "like_this": {
+    "message": "like this"
+  },
+  "all_comments": {
+    "message": "Show previous comments..."
+  },
+  
+  "share_this_widget": {
+    "message": "Share this widget"
+  },
+  "message_sent": {
+    "message": "Your message was successfully sent"
+  },
+  "share_successful": {
+    "message": "Share successful"
+  },
+  "do_you_like": {
+    "message": "Do you like this extension?"
+  },
+  "share_it": {
+    "message": "Share it!"
+  },
+  
+  "settings_saved": {
+    "message": "Settings have been saved."
+  },
+  "stats_help": {
+    "message": "This helps us improve the application. All statistics are strictly anonymous! Don't worry."
+  },
+  "desktop_notifications": {
+    "message": "Desktop notifications"
+  },
+  "desktop_notifications_help": {
+    "message": "Everytime you get some notification the small frame with the content will appear at the bottom-right of your screen."
+  },
+  "notify_close_help": {
+    "message": "For how long will the desktop notification be shown."
+  },
+  "notify_bg_help": {
+    "message": "In enabled you will see desktop notifications even when your browser is off."
+  },
+  
+  "search": {
+    "message": "Search"
+  },
+  "views": {
+    "message": "views"
+  },
+  "uploaded_by": {
+    "message": "Uploaded by"
+  },
+  "back_to_channel": {
+    "message": "Back to channel"
+  },
+  "channel_filter": {
+    "message": "Channel filter"
+  },
+  "bulk_notify": {
+    "message": "Enable owner to send me notifications"
+  },
+  "bulk_notify_help": {
+    "message": "The good example of this is some questions for you, how to improve the extension. We highly recommend this to be enabled. It won’t be used as a spam."
+  },
+    "enable_update_notify": {
+        "message": "Allow notifications for new features"
+    },
+  
+  "color": {
+    "message": "Color"
+  },
+  "opacity": {
+    "message": "Opacity"
+  },
+  "autoplay": {
+    "message": "Autoplay (YouTube)"
+  },
+  "fade_in_out": {
+    "message": "Fade in / Fade out effects"
+  },
+  "shortcut_key": {
+    "message": "Shortcut key for dimming the lights - Ctrl+Shift+L"
+  },
+  "context_menu": {
+    "message": "Show the context menu to focus an item"
+  },
+  
+  "info_bar": {
+    "message": "Info Bar"
+  },
+  "like_dislike": {
+    "message": "Like & Dislike buttons"
+  },
+  "video_title": {
+    "message": "Video Title"
+  },
+  "add_button": {
+    "message": "Add button"
+  },
+  "channel_bar": {
+    "message": "Channel bar"
+  },
+  "share_buttons": {
+    "message": "Share buttons"
+  },
+  "suggestions": {
+    "message": "Suggestions"
+  },
+  "number_views": {
+    "message": "Number of views"
+  },
+  "like_bar": {
+    "message": "Like bar"
+  },
+  
+  "info_bar_help": {
+    "message": "Show the description information about the video"
+  },
+  "like_dislike_help": {
+    "message": "Show Like & Dislike buttons"
+  },
+  "video_title_help": {
+    "message": "Show and invert the color of the video title"
+  },
+  "add_button_help": {
+    "message": "Show Add button"
+  },
+  "channel_bar_help": {
+    "message": "Show the YouTube Channel bar on the name"
+  },
+  "share_buttons_help": {
+    "message": "Show the share buttons of YouTube for this video"
+  },
+  "suggestions_help": {
+    "message": "Show the suggestions of the YouTube website"
+  },
+  "number_views_help": {
+    "message": "Show the number of views for this video"
+  },
+  "like_bar_help": {
+    "message": "Show the like/dislike bar from current YouTube video"
+  },
+  
+  "live_notif_started": {
+    "message": "has started live streaming"
+  },
+  "live_notif_click": {
+    "message": "Click here to start watching"
+  },
+  "live_popup_click": {
+    "message": "Click here to join the live stream"
+  }
+}

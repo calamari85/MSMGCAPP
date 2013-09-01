@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Wips.com</title>
+  <link rel="stylesheet" type="text/css" href="css/simple-slider.css" />
+  <link rel="stylesheet" type="text/css" href="css/jquery.minicolors.css" />
+  <link rel="stylesheet" type="text/css" href="css/options.css" />
+  <script type='text/javascript' src='jquery.js'></script>
+  <script type='text/javascript' src='jquery.minicolors.js'></script>
+  <script type='text/javascript' src='simple-slider.js'></script>
+  <script type='text/javascript' src='config.js'></script>
+  <script type="text/javascript" src="options.js"></script>
+  <script type='text/javascript' src='social.js'></script>
+  <script type='text/javascript' src='ga.js'></script>
+</head>
+
+<body>
+<div id="hlavni">                 
+
+<div id="leftpanel">
+  <h2 id="left_h2">
+    <img src="images/ico32.png" alt="wips" />
+    <span class="" i18n="options">Options</span>
+  </h2>
+  <ul>
+    <li rel="blok_general" class="active" i18n="options">General options</li>
+  </ul>
+  <!--<h3>Turn off the Light</h3>
+  <ul>
+    <li rel="blok_eclipse_general" class="href_from_notif">Options</li>
+    <li rel="blok_eclipse_yt">Dimming Youtube</li>
+  </ul>-->
+  <ul> <!--style="margin-top:30px;"-->
+    <li rel="blok_about">About Wips.com</li>
+  </ul>
+  <div class="saved none i18n" i18n="settings_saved"></div>
+  <div class="error none"></div>
+</div>
+  
+  
+<img id="logo" src="images/options_logo.png" alt="Wips.com" /><br />
+<h1 id="h1"></h1>
+<hr />
+  
+<div id="blok_general" class="change_blok">
+  <h2 class="" i18n="options">General options</h2>
+  <hr />
+  <div>
+    <input id="desknot_check" type="checkbox" name="" /> &nbsp;
+    <label for="desknot_check" class="i18n" i18n="desktop_notifications"></label>
+    <span class="help"><span class="i18n" i18n="desktop_notifications_help"></span></span>
+  </div>
+  <hr />
+  <div>
+    <label class="i18n" i18n="notify_close"></label> &nbsp;
+    <select id="notify_close_time" name=""></select>
+    <span class="help"><span class="i18n" i18n="notify_close_help"></span></span>
+  </div>
+  <hr />
+  <div>
+    <input id="desknot_bg_check" type="checkbox" name="" /> &nbsp;
+    <label for="desknot_bg_check" class="i18n" i18n="notify_bg"></label>
+    <span class="help"><span class="i18n" i18n="notify_bg_help"></span></span>
+  </div>
+  <hr />
+  <div id="bulk_notify">
+    <input id="bulk_notify_check" type="checkbox" name="" /> &nbsp;
+    <label for="bulk_notify_check" id="bulk_notify_label" class="i18n" i18n="bulk_notify">Enable owner to send me notifications</label>
+    <span class="help"><span class="i18n" i18n="bulk_notify_help">The good example of this is some questions for you, how to improve the extension. We highly recommend this to be enabled. It won’t be used as a spam.</span></span>
+  </div>
+  <hr />
+  <div>
+    <input id="update_notify_active" class="univ_check" type="checkbox" name="" /> &nbsp;
+    <label class="i18n" i18n="enable_update_notify" for="update_notify_active"></label>
+  </div>
+  <hr />
+  <div>
+    <input id="stats_check" type="checkbox" name="" /> &nbsp;
+    <label for="stats_check" class="i18n" i18n="stats"></label>
+    <span class="help"><span class="i18n" i18n="stats_help"></span></span>
+  </div>
+</div>
+
+<div id="blok_about" class="change_blok none">
+  <h2>About</h2>
+  <img src="images/wipsak.png" alt="" class="wipsak" />
+  <p>We have created this extension as simple as possible so you can quickly access the best videos on YouTube and you can easily search for them.</p>
+  <p>Take a look also on our other extensions here: <a href="http://www.wips.com/showcase" target="_blank">http://www.wips.com/showcase</a></p> 
+  <p>&nbsp;</p>
+  <h3>What is the functionality?</h3>
+  <p>Whenever you want to search for some video on Youtube, you don’t need to visit it and then search it.</p>
+  <p>When you click on the icon, the small frame with featured videos will show up and on the top there is an input, where you can write your search query. The results will show up in the new tab.</p>
+  <p>You don’t need to be signed to Youtube to use this.</p>
+  <p>&nbsp;</p>
+  <h3>About the developer</h3>
+  <p>Wips.com is a team of developer enthusiastic about Chrome Extensions and Mozilla Add-ons. We love developing extensions for users and we are happy to hear new ideas and any feedback from you. That is why you can write us on <a href="mailto:info@wips.com">info@wips.com</a> anytime and be sure that we will reply.</p>
+  <p>Stay tuned for new extensions. We are planning to make a lot of them!</p>
+  <p>With love ♥<br />
+  Wips.com team</p>
+  <hr />
+  <h3>Contact us</h3>
+  <p>We are more than happy to hear your ideas and feedback. Feel free to do so, whenever you want and be sure that we will reply. Usually within one or two days you get your reply.</p>
+  <p>You can follow us on following social networks:</p>
+  <span class="clear"></span>
+  <div class="social">
+    <div class="social_top">
+      <ul>
+        <li id="share-facebook-obal"></li>
+        <li id="share-twitter-obal"></li>
+        <li id="share-google-obal"></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+    <div class="social_foot">
+      <a target="_blank" href="http://www.twitter.com/wipscom" class="twitter"></a>
+      <a target="_blank" href="http://www.facebook.com/wipscom" class="fb"></a>
+      <a href="mailto:info@wips.com" class="email"></a>
+      <a target="_blank" href="https://plus.google.com/100520130082816551481/posts" class="gplus"></a>
+    </div>
+  </div>
+</div>
+
+<!--<div id="blok_eclipse_general" class="change_blok none">
+  <h2>Turn off the Light - General options</h2>
+  <hr />
+  <div id="preview">
+      <div class="bg"></div>
+      <img class="image" src="images/preview_img.jpg" alt="" />
+  </div>
+  <hr />
+  <label class="i18n" i18n="color" style="cursor:default;"></label>:
+  <input id="minicolors" type="text" value="" />
+  <hr />
+  <div id="opacity_slider_left">
+    <label class="i18n" i18n="opacity" style="cursor:default;"></label>:
+    <span id="opacity_show"></span>
+  </div>
+  <div id="opacity_slider_right">
+    <input id="opacity" type="text" value="" data-slider="true" data-slider-range="0,100" data-slider-step="1" />
+  </div>
+  <div class="clear"></div>
+  <hr />
+  <input id="fade_in_out" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="fade_in_out" for="fade_in_out"></label>
+  <hr />
+  <input id="context_menu" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="context_menu" for="context_menu"></label>
+  <hr />
+  <input id="autoplay" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="autoplay" for="autoplay"></label>
+  <hr />
+  <input id="shortcut_key" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="shortcut_key" for="shortcut_key"></label>
+</div>
+
+<div id="blok_eclipse_yt" class="change_blok none">
+  <h2>Turn off the Light - Youtube options</h2>
+  <hr />
+  <input id="info_bar" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="info_bar" for="info_bar"></label>
+  <span class="help"><span class="i18n" i18n="info_bar_help"></span></span>
+  <hr />
+  <input id="like_dislike" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="like_dislike" for="like_dislike"></label>
+  <span class="help"><span class="i18n" i18n="like_dislike_help"></span></span>
+  <hr />
+  <input id="video_title" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="video_title" for="video_title"></label>
+  <span class="help"><span class="i18n" i18n="video_title_help"></span></span>
+  <hr />
+  <input id="channel_bar" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="channel_bar" for="channel_bar"></label>
+  <span class="help"><span class="i18n" i18n="channel_bar_help"></span></span>
+  <hr />
+  <input id="suggestions" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="suggestions" for="suggestions"></label>
+  <span class="help"><span class="i18n" i18n="suggestions_help"></span></span>
+  <hr />
+  <input id="number_views" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="number_views" for="number_views"></label>
+  <span class="help"><span class="i18n" i18n="number_views_help"></span></span>
+  <hr />
+  <input id="like_bar" class="univ_check" type="checkbox" name="" />
+  <label class="i18n" i18n="like_bar" for="like_bar"></label>
+  <span class="help"><span class="i18n" i18n="like_bar_help"></span></span>
+</div>-->
+
+<hr />
+<input type="button" id="close" value="" class="i18n" i18n="close" />
+
+</div>
+</body>
+
+</html>

@@ -1,0 +1,256 @@
+{
+  "locale": {
+    "message": "ru"
+  },
+  "refresh": {
+    "message": "Oбновление"
+  },
+  "offline": {
+    "message": "You are not connected<br />to the internet.<br />Try again later."
+  },
+  "title": {
+    "message": "Wips.com extension"
+  },
+  "stats": {
+    "message": "Разрешить отсылание анонимной статистики"
+  },
+  "close": {
+    "message": "Закрыть"
+  },
+  "options": {
+    "message": "Настройка"
+  },
+  "notify": {
+    "message": "Включение уведомлений рабочего стола"
+  },
+  "notify_mess": {
+    "message": "Включение рабочего стола сообщений"
+  },
+  "notify_close": {
+    "message": "Закрыть рабочего стола уведомления после (в секундах):"
+  },
+  "notify_bg": {
+    "message": "Enable notification on background"
+  },
+  "time_before": {
+    "message": ""
+  },
+  "seconds_before": {
+    "message": "секунд назад"
+  },
+  "minute_before": {
+    "message": "mинутой"
+  },
+  "minutes_before": {
+    "message": "mинутами"
+  },
+  "hour_before": {
+    "message": "Часом"
+  },
+  "hours_before": {
+    "message": "Часами"
+  },
+  "day_before": {
+    "message": "Вчера"
+  },
+  "days_before": {
+    "message": "Дней"
+  },
+  "month_before": {
+    "message": "mесяцем"
+  },
+  "months_before": {
+    "message": "mесяцами"
+  },
+  "year_before": {
+    "message": "Годом"
+  },
+  "years_before": {
+    "message": "Годами"
+  },
+  "new_messages": {
+    "message": "новый сообщения"
+  },
+  
+  "locale_fb": {
+    "message": "ru_RU"
+  },
+  "logout": {
+    "message": "Выход"
+  },
+  "news_feed": {
+    "message": "Сообщения"
+  },
+  "share_this_page": {
+    "message": "Поделиться настоящей страницей"
+  },
+  "status_update": {
+    "message": "Обновить статус"
+  },
+  "whats_on_your_mind": {
+    "message": "О чем вы думаете?"
+  },
+  "post": {
+    "message": "Добавить"
+  },
+  "unlike": {
+    "message": "Мне уже это не нравится"
+  },
+  "like": {
+    "message": "Мне это нравится"
+  },
+  "comment": {
+    "message": "Комментировать"
+  },
+  "like_this": {
+    "message": "пользователям это нравится"
+  },
+  "all_comments": {
+    "message": "Показать все комментарии"
+  },
+  
+  "share_this_widget": {
+    "message": "Отправить этот виджет"
+  },
+  "message_sent": {
+    "message": "Ваше сообщение было успешно отправлено"
+  },
+  "share_successful": {
+    "message": "Отправить успешным"
+  },
+  "do_you_like": {
+    "message": "Нравится ли вам это приложение?"
+  },
+  "share_it": {
+    "message": "Поделитесь им!"
+  },
+  
+  "settings_saved": {
+    "message": "Ваши настройки были сохранены"
+  },
+  "stats_help": {
+    "message": "Это нам поможет улучшить функцию. Любая статистика абсолютно анонимна, так что не беспокойтесь."
+  },
+  "desktop_notifications": {
+    "message": "Уведомление на рабочем столе"
+  },
+  "desktop_notifications_help": {
+    "message": "Каждый раз, когда вы получите какое-то предупреждение, появится маленькое окно внизу в углу с описанием."
+  },
+  "notify_close_help": {
+    "message": "Сколько будут отображаться предупреждения на рабочем столе?"
+  },
+  "notify_bg_help": {
+    "message": "Если отметите, будете получать уведомления и при выключенном браузере"
+  },
+  
+  "search": {
+    "message": "Поиск"
+  },
+  "views": {
+    "message": "Просмотров"
+  },
+  "uploaded_by": {
+    "message": "Загружено пользователем"
+  },
+  "back_to_channel": {
+    "message": "Обратно на канал"
+  },
+  "channel_filter": {
+    "message": "Канал фильтр"
+  },
+  "bulk_notify": {
+    "message": "Включение владельца прислать мне уведомления"
+  },
+  "bulk_notify_help": {
+    "message": "Хорошим примером этого является несколько вопросов к вам, как улучшить расширения. Мы очень рекомендуем это должен быть включен. Он не будет использоваться в качестве спама."
+  },
+    "enable_update_notify": {
+        "message": "Разрешить уведомления о новых возможностях"
+    },
+  
+  "color": {
+    "message": "Color"
+  },
+  "opacity": {
+    "message": "Opacity"
+  },
+  "autoplay": {
+    "message": "Autoplay (YouTube)"
+  },
+  "fade_in_out": {
+    "message": "Fade in / Fade out effects"
+  },
+  "shortcut_key": {
+    "message": "Shortcut key for dimming the lights - Ctrl+Shift+L"
+  },
+  "context_menu": {
+    "message": "Show the context menu to focus an item"
+  },
+  
+  "info_bar": {
+    "message": "Info Bar"
+  },
+  "like_dislike": {
+    "message": "Like & Dislike buttons"
+  },
+  "video_title": {
+    "message": "Video Title"
+  },
+  "add_button": {
+    "message": "Add button"
+  },
+  "channel_bar": {
+    "message": "Channel bar"
+  },
+  "share_buttons": {
+    "message": "Share buttons"
+  },
+  "suggestions": {
+    "message": "Suggestions"
+  },
+  "number_views": {
+    "message": "Number of views"
+  },
+  "like_bar": {
+    "message": "Like bar"
+  },
+  
+  "info_bar_help": {
+    "message": "Show the description information about the video"
+  },
+  "like_dislike_help": {
+    "message": "Show Like & Dislike buttons"
+  },
+  "video_title_help": {
+    "message": "Show and invert the color of the video title"
+  },
+  "add_button_help": {
+    "message": "Show Add button"
+  },
+  "channel_bar_help": {
+    "message": "Show the YouTube Channel bar on the name"
+  },
+  "share_buttons_help": {
+    "message": "Show the share buttons of YouTube for this video"
+  },
+  "suggestions_help": {
+    "message": "Show the suggestions of the YouTube website"
+  },
+  "number_views_help": {
+    "message": "Show the number of views for this video"
+  },
+  "like_bar_help": {
+    "message": "Show the like/dislike bar from current YouTube video"
+  },
+  
+  "live_notif_started": {
+    "message": "начал Live Streaming"
+  },
+  "live_notif_click": {
+    "message": "Нажмите здесь, чтобы начать смотреть"
+  },
+  "live_popup_click": {
+    "message": "Нажмите здесь, чтобы присоединиться к живой эфир"
+  }
+}

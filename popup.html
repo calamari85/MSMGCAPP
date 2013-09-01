@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style14.css" />
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="jquery.nicescroll.js"></script>
+    <script type="text/javascript" src="config.js"></script>
+    <script type="text/javascript" src="popup.js"></script>
+    <script type="text/javascript" src="social.js"></script>
+    <script type="text/javascript" src="ga.js"></script>
+  </head>       
+  <body>    
+    <div id="yt" class="hlavni">           
+      <div class="search">                 
+        <a href="#" class="back ga" data-ga="Button - Back"></a>
+        <input type="text" value="" name="query" class="text" />                 
+        <select class="select">
+          <option value="">--- Youtube ---</option>
+        </select>
+        <input type="submit" value="Search" class="submit" />                 
+        <div class="clear"></div>           
+      </div>           
+      <div class="live search none"><a href="" target="_blank"><img src="images/online.png" alt="" /><span>Click here to join the live stream</span></a></div>
+      <div id="video-list">                 
+        <ul>                   
+          <div id="snippet--videos"></div>                 
+        </ul>           
+      </div>           
+      <div class="foot">                 
+        <a href="#" class="logout none ga" data-ga="Button - Logout">Logout</a>                 
+        <div class="clear"></div>           
+      </div>
+      <img class="loader none" src="images/loader.gif" alt="" />
+      <div class="alert none"><span></span></div>
+      <div id="channel_filter">
+        <div class="in"></div>
+        <span class="close">Close</span>   
+    </div>                
+  </body>
+</html>
